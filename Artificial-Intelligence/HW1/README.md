@@ -14,6 +14,6 @@ Output:
      From : A to C 192 km, Speed: 72 km/h
      From : C to D 144 km, Speed: 60 km/h
 
-     Memory Usage: 101.4619140625 megabytes. (According to JVM, may be wrong)
+     Memory Usage: 101.4619140625 megabytes. (According to JVM)
      Running time: 2 seconds
 
