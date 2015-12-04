@@ -1,4 +1,6 @@
 Sample Input: C  AHFHE  DECBA  180 12  204  216  144 12 543 122 566 222 11
+
+Output:
   
        Solution : CHBEFEAACD, Total Distance: 1418 km, Travel Time: 1215.5 minutes.
       Details:
