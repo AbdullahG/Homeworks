@@ -1,15 +1,17 @@
-Sample Input: C  AHF  DEC  180 12  204  216  144 12 543 122 566 222 11
+Sample Input: C  AHFHE  DECBA  180 12  204  216  144 12 543 122 566 222 11
   
-       Output:
-  
-  
-  Solution : CHFEACD, Total Distance: 1098 km, Travel Time: 963.5 minutes.
-   Details:
-  From : C to H 23 km, Speed: 90 km/h
-  From : H to F 233 km, Speed: 72 km/h
-  From : F to E 122 km, Speed: 60 km/h
-  From : E to A 384 km, Speed: 72 km/h
-  From : A to C 192 km, Speed: 60 km/h
-  From : C to D 144 km, Speed: 72 km/h
+       Solution : CHBEFEAACD, Total Distance: 1418 km, Travel Time: 1215.5 minutes.
+      Details:
+     From : C to H 23 km, Speed: 90 km/h
+     From : H to B 227 km, Speed: 72 km/h
+     From : B to E 204 km, Speed: 60 km/h
+     From : E to F 122 km, Speed: 72 km/h
+     From : F to E 122 km, Speed: 90 km/h
+     From : E to A 384 km, Speed: 72 km/h
+     From : A to A 0 km, Speed: 60 km/h
+     From : A to C 192 km, Speed: 72 km/h
+     From : C to D 144 km, Speed: 60 km/h
 
-  Memory Usage: 199.8642578125 megabytes. (According to JVM)
+     Memory Usage: 101.4619140625 megabytes. (According to JVM, may be wrong)
+     Running time: 2 seconds
+
